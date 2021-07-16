@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuyHaHa00
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Java,C# and JavaScript
+- 🌱 I’m currently learning Java, C# and JavaScript
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me tbd
 
